@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"BT1, BT2",BatteryHolder_Keystone_3034_1x20mm,2,Battery_Cell,
+"BUZZER, LIGHT, VIBRATOR",SW_PUSH_6mm,3,SW_Push,
+BZ1,MagneticBuzzer_ProSignal_ABI-009-RC,1,Buzzer,
+"D1, D2, D3, D4, D5",LED_D5.0mm,5,LED,
+M1,PinHeader_1x02_P2.54mm_Vertical,1,Motor_DC,
+"R1, R2, R3, R4, R5, R6, R8",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,7,R,
+R7,R_LDR_5.1x4.3mm_P3.4mm_Vertical,1,LDR03,
